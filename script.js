@@ -1,5 +1,5 @@
 (function(){
-  var BASE = 'https://socialtap.social';
+  var BASE = 'https://www.socialtap.social';
   // Views
   var loginV = document.getElementById('loginView'),
       chatV  = document.getElementById('chatView');
